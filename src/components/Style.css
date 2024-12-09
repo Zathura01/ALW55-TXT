@@ -1,0 +1,17 @@
+.navbar{
+  display: flex;
+  z-index: +50;
+  flex-direction: row;
+  justify-content: flex-end;
+  margin-right: 5vw;
+  padding: 10px;
+}
+
+button{
+    width: 60px;
+    height: 40px;
+    background-color: red;
+    color: white;
+    margin: 5px;
+    border-radius: 10px;
+}

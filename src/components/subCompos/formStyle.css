@@ -1,0 +1,11 @@
+.form{
+    width: 40vw;
+    height: 40vh;
+    background-color: grey;
+    padding: 10px;
+    border: solid black 5px;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    justify-self: center;
+}
